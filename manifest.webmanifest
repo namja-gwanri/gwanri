@@ -1,0 +1,16 @@
+{
+  "name": "관리하는 남자",
+  "short_name": "관리하는 남자",
+  "description": "루틴·수면·운동·복용 기록과 D+30/60/90 변화 비교",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0E1012",
+  "theme_color": "#0E1012",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
